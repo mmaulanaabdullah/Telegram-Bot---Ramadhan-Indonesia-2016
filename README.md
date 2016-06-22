@@ -62,3 +62,17 @@ Tunjukilah kami jalan yang lurus, (6)
 صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ 
 (yaitu) Jalan orang-orang yang telah Engkau beri nikmat kepada mereka; bukan (jalan) mereka yang dimurkai dan bukan (pula jalan) mereka yang sesat. (7)
 ```
+
+## 3. Data source
+
+request:
+```
+/sumberdata
+```
+
+response:
+```
+1. Data imsakiyah didapat dari Kementrian Agama Republik Indonesia http://sihat.kemenag.go.id/jadwal-imsakiyah
+2. Data Ayat Al-Quran dan terjemahan di dapat dari http://www.qurandatabase.org/
+```
+
