@@ -11,12 +11,16 @@ Requirement :
 - Telegram bot
 
 Sample :
-1. Imsakiyah schedule :
+## 1. Imsakiyah schedule :
 
 request :
+```
 /jadwalimsakiyahhariini
+```
+
 
 response :
+```
 Jadwal imsakiyah hari ini 16 Ramadhan 1437H / 21 Jun 2016 Masehi di KOTA JAKARTA dalam WIB :
 Imsak  : 4:30 
 Subuh  : 4:40 
@@ -25,13 +29,17 @@ Dzuhur : 11:57
 Ashar  : 15:18 
 Magrib : 17:50 
 Isya   : 19:04
+```
 
-2. Query Al-Quran :
+## 2. Query Al-Quran :
 
 request:
+```
 /quran 1:1-7
+```
 
 response:
+```
 Surah Al-Fatihah ayat 1-7 :
  بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ 
 Dengan menyebut nama Allah Yang Maha Pemurah lagi Maha Penyayang. (1)
@@ -53,3 +61,4 @@ Tunjukilah kami jalan yang lurus, (6)
 
 صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ 
 (yaitu) Jalan orang-orang yang telah Engkau beri nikmat kepada mereka; bukan (jalan) mereka yang dimurkai dan bukan (pula jalan) mereka yang sesat. (7)
+```
