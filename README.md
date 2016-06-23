@@ -10,6 +10,14 @@ Requirement :
 - Apache Server
 - Telegram bot
 
+Feature :
+- support only for private chat
+
+Give it a try:
+```
+http://telegram.me/ramadhanindonesiabot
+```
+
 Sample :
 ## 1. Imsakiyah schedule :
 
